@@ -1,6 +1,6 @@
 function concat(arr1, arr2) {
-  let array1 = [];
-  let array2 = [];
+  //let array1 = [];
+  //let array2 = [];
   for(let i = 0; i <= 0; i++) {
     return arr1.concat(arr2);
   }
